@@ -1,17 +1,16 @@
 {
-    "launch": {
-
-        "configurations": [],
-        "compounds": []
-    },
-    // Set the default
-    "editor.formatOnSave": true,
-    // Enable per-language
-    "[javascript]": {
-        "editor.formatOnSave": true
-    },
-    "[typescript]": {
-        "editor.formatOnSave": true
-    },
-    "editor.tabSize": 2
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  // Set the default
+  "editor.formatOnSave": true,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.tabSize": 2
 }
