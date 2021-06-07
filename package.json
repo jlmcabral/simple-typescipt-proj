@@ -17,5 +17,8 @@
     "lite-server": "^2.5.4",
     "prettier": "2.3.0",
     "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "npm": "^7.16.0"
   }
 }
